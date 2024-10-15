@@ -1,4 +1,4 @@
-/ we use map for changing/adding the values of array elements
+/ we use map for changing/adding the values in array elements
 let arr = [45, 23, 71]
 let a = arr.map((value)=>{
     console.log(value)
